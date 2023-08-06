@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on JUICY FANNIE</title>
-    <link>https://jqqqqq.github.io/post/</link>
-    <description>Recent content in Posts on JUICY FANNIE</description>
+    <title>标签1 on JUICY FANNIE</title>
+    <link>https://jqqqqq.github.io/tags/%E6%A0%87%E7%AD%BE1/</link>
+    <description>Recent content in 标签1 on JUICY FANNIE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jqqqqq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jqqqqq.github.io/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -151,27 +151,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://jqqqqq.github.io/post/test/</link>
-      <pubDate>Sun, 06 Aug 2023 01:31:42 +0800</pubDate>
-      
-      <guid>https://jqqqqq.github.io/post/test/</guid>
-      <description>&lt;p&gt;这个blog名为什么是默认的。。。
-F&amp;hellip; 现在是人工版Blog了捏，，&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test一下分类功能</title>
-      <link>https://jqqqqq.github.io/post/test%E4%B8%80%E4%B8%8B%E5%88%86%E7%B1%BB%E5%8A%9F%E8%83%BD/</link>
-      <pubDate>Thu, 06 Aug 2020 19:31:42 +0800</pubDate>
-      
-      <guid>https://jqqqqq.github.io/post/test%E4%B8%80%E4%B8%8B%E5%88%86%E7%B1%BB%E5%8A%9F%E8%83%BD/</guid>
-      <description>&lt;p&gt;be like能不能显示出分类功能捏&lt;/p&gt;
-</description>
     </item>
     
   </channel>
